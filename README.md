@@ -22,7 +22,7 @@ Our team:
 - qFlux
 
 Our goals: 
-To bypass a certain little anti-tamper made by the wonderfull people at by4r0n t3cknologises to gives developers (or players *hint* *hint*) 
+To bypass a certain anti-tamper made by the wonderfull people at by4r0n t3cknologies to give developers
 the tools to help with game development. To make this tool for developers our primary mission is to make a level 7 un-restricted luau execution
 for developers.
 
